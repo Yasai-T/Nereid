@@ -1,3 +1,3 @@
 let default = (): React.element => {
-  <div> {React.string("BB page")} </div>
+  <div> {React.string("BB page")} <BasicElement /> </div>
 }
