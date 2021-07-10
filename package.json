@@ -27,7 +27,7 @@
     "cssnano": "5.0.5",
     "gentype": "4.1.0",
     "next-transpile-modules": "8.0.0",
-    "postcss": "8.2.15",
+    "postcss": "8.3.5",
     "postcss-cli": "8.3.1",
     "rescript": "9.1.4",
     "tailwindcss": "2.2.4"
