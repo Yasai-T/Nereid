@@ -4,7 +4,9 @@ import * as React from "react";
 import * as BasicElement from "./components/BasicElement.mjs";
 
 function $$default(param) {
-  return React.createElement("div", undefined, "BB page", React.createElement(BasicElement.make, {}));
+  console.log("日本語");
+  console.log("\xe3\x81\xa0\xe3\x82\x81");
+  return React.createElement("div", undefined, "日本語", React.createElement(BasicElement.make, {}));
 }
 
 export {
