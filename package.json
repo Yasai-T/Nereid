@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@rescript/react": "0.10.3",
-    "autoprefixer": "10.1.0",
+    "autoprefixer": "10.2.6",
     "cssnano": "5.0.5",
     "gentype": "4.1.0",
     "next-transpile-modules": "8.0.0",
