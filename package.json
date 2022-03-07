@@ -25,7 +25,7 @@
     "@rescript/react": "0.10.3",
     "autoprefixer": "10.3.1",
     "cssnano": "5.0.5",
-    "gentype": "4.1.0",
+    "gentype": "4.3.0",
     "next-transpile-modules": "8.0.0",
     "postcss": "8.3.5",
     "postcss-cli": "8.3.1",
